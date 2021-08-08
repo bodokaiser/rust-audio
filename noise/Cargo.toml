@@ -1,0 +1,9 @@
+[package]
+authors = ["Bodo Kaiser <i@bodokaiser.io>"]
+edition = "2018"
+name = "noise"
+version = "0.1.0"
+
+[dependencies]
+cpal = "0.13.3"
+rand = "0.8.4"
